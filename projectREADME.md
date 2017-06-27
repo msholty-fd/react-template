@@ -1,4 +1,3 @@
-![](http://sharpspring.com/wp-content/uploads/2016/05/ssLogo.png)
 ![](http://jpsierens.com/wp-content/uploads/2016/06/react-eco-wp.gif)
 
 # ${projectName} Front End
